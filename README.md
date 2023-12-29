@@ -36,6 +36,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md). -->
 
+## API
+
+([Veja aqui o repositório da API deste projeto](https://github.com/GuilhermeCCunha/mean-backend)).
+
 ## Como usá-lo
 
 1. Baixe este repositório clicando no botão verde **Code** no topo da página e clicando na opção **Download ZIP**.
@@ -44,4 +48,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 3. Execute `npm install` para instalar todas as dependências do projeto (você deve ter [Node.js](https://nodejs.org/en/download/) instalado);
 
-4. Para iniciar o aplicativo, execute `npm start` em seu terminal. Ou execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar algum dos arquivos de origem.
+4. Para iniciar a aplicação, execute `npm start` em seu terminal. Ou execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar algum dos arquivos de origem.
